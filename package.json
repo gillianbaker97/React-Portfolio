@@ -1,0 +1,25 @@
+{
+  "name": "React-Portfolio",
+  "version": "1.0.0",
+  "description": "a personal page using react",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gillianbaker97/React-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gillianbaker97/React-Portfolio/issues"
+  },
+  "homepage": "https://github.com/gillianbaker97/React-Portfolio#readme",
+  "dependencies": {
+    "gh": "^2.8.9",
+    "pages": "0.0.16"
+  }
+}
