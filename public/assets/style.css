@@ -1,0 +1,6 @@
+.nav-item .card-img:hover {
+    opacity: 0.6;
+    filter: alpha(opacity=.6);
+
+}
+
